@@ -1,0 +1,8 @@
+{
+  "name": "moodboard",
+  "version": "1.0.0",
+  "description": "키워드 한 줄로 핀터레스트에서 레퍼런스 이미지를 자동 수집하고, 톤·소재별로 분류해 무드보드를 만드는 플러그인.",
+  "author": {
+    "name": "yewoo"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "team-market",
+  "description": "팀 공용 Claude 플러그인 마켓 플레이스",
+  "plugins": [
+    {
+      "name": "moodboard",
+      "path": "plugins/moodboard-plugin",
+      "description": "키워드 한 줄로 핀터레스트에서 레퍼런스 이미지를 자동 수집하고 톤·소재별로 분류해 무드보드를 만드는 플러그인.",
+      "version": "1.0.0",
+      "author": "95dudn95-wq"
+    }
+  ]
+}
